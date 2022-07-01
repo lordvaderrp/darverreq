@@ -1,0 +1,17 @@
+   #darkver .jjh-cont {width: 500px; padding-bottom: 20px; margin: 50px auto; box-sizing: border-box; background: var(--bg); color: var(--lines);}
+    #darkver .jjh-cont1 {margin: 20px 20px 0px 20px; border: 1px solid var(--lines);}
+    #darkver .jjh-bigimage { height: 200px; background-size: cover; background-position: center; opacity: 0.7;}
+    #darkver .jjh-shorttxt {padding: 20px; display: flex; justify-content: center; align-items: center; border-bottom: 1px solid var(--lines); font: 700 25px var(--titlefont); text-transform: uppercase;}
+    #darkver .jjh-bigdesc {padding: 40px; border-bottom: 1px solid var(--lines); text-align: justify; font: 400 12px var(--titlefont);}
+    #darkver .jjh-bigdesc a, #darkver .jjh-charcont a {text-decoration: none; text-transform: uppercase; font-style: italic; font-weight: 700; background: linear-gradient(to top, var(--linkbg) 50%, transparent 50%); color: var(--lines);}
+    #darkver .jjh-char-title {padding: 20px; display: flex; justify-content: center; align-items: center; border-bottom: 1px solid var(--lines); font: 700 15px var(--titlefont); text-transform: uppercase;}
+    #darkver .jjh-charcont {border-bottom: 1px solid var(--lines);}
+    #darkver .jjh-charcont:last-child {border-bottom: 0px;}
+    #darkver .jjh-char-detbox {display: flex; flex-flow: row nowrap; border-bottom: 1px solid var(--lines); font: 400 12px var(--titlefont); text-transform: uppercase;}
+    #darkver .jjh-char-detbox1 {flex: 1; padding: 10px; display: flex; justify-content: center; align-items: center;}
+    #darkver .jjh-char-desc {display: flex; flex-flow: row nowrap;}
+    #darkver .jjh-char-img {height: 150px; width: 150px; border-right: 1px solid var(--lines); padding: 20px;}
+    #darkver .jjh-char-img img {height: 100%; width: 100%; object-fit: cover; object-position: center;  opacity: 0.7;}
+    #darkver .jjh-char-descbox {flex: 1; height: 150px; border: 20px solid transparent; padding-right: 10px; text-align: justify; overflow: auto; font: 400 12px var(--titlefont);}
+    #darkver .jjh-char-descbox::-webkit-scrollbar { width:1px; height:0px; background: transparent; background-image: none; border-left:10px solid transparent; z-index:9999; border-radius: 10px}
+	#darkver .jjh-char-descbox::-webkit-scrollbar-thumb {background: var(--lines) !important; background-image: none; border-radius: 10px; border: 4px solid var(--lines);}
